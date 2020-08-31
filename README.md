@@ -12,6 +12,8 @@ The procedure of this project was split into four main steps,
 These 6 environmental conditions were included as datapoints in the dataset: temperature, humidity, wind speed, soil temperature, soil moisture, and K-means Red Green Blue values of dominant colors from corresponding NDVI imagery to quantify vegetation health. 
 This data was collected from a variety of locations from around North America to account for regional bias, and the final dataset which was used to train a binary-classification neural network contained ~2000 cases. Finally the trained model, which achieved an accuracy of 98%, was integrated into
 a proof-of-concept desktop app (with potential to be mobile). This app takes a firefighter's inputted coordinates, uses a collection of web APIs to collect the necessary near-time datapoints, and runs it through the AI model. Through this project, we aim to make firefighting safer, easier, and drastically
-more efficient. For a much more thorough and detailed analysis, please read the included research paper.
+more efficient. For a much more thorough and detailed analysis, please read the included research paper. All improvements are welcome, and do not hesitate to reach out for support or collaboration opportunities!
 
-*By Gurik Mangat*
+
+
+*Gurik Mangat - Developer FyreWatch.ai*
