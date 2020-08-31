@@ -1,7 +1,7 @@
 # FyreWatch Ai :fire:
-### An AI Powered Wildfire Detection System 
+### An AI Powered Wildfire Condition Detection System 
 
-The purpose of this project is to build an artificially intelligent system capable of detecting wildfires through a myriad of different environmental datapoints. 
+The purpose of this project is to build an artificially intelligent system capable of detecting wildfire conditions through a myriad of different environmental datapoints. 
 
 The procedure of this project was split into four main steps, 
 * (1) determining which environmental conditions play a decisive role in wildfire environments so that they can be used as inputs for the neural network, 
