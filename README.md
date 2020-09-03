@@ -13,8 +13,8 @@ These 6 environmental conditions were included as datapoints in the dataset: tem
 
 In the "Code" folder, we have included files for environmental data collection, kmeans clustering for dominant color detection in NDVI imagery, and the code used to train the neural network. We have also included screenshots of our prototype desktop app in the "Desktop App" folder. 
 
-Through this project, we aim to make firefighting safer, easier, and drastically more efficient. For a more thorough and detailed analysis of our methodology and technology, please read the included research paper. All improvements are welcome, and do not hesitate to reach out for support, collaboration opportunities, or to show off what the community has done!
+Through this project, we aim to make firefighting safer, easier, and drastically more efficient. For a more thorough and detailed analysis of our methodology and technology, please read the included research paper. All improvements are welcome, and do not hesitate to reach out for support, feedback, or collaboration opportunities!
 
 
 
-*Gurik Mangat - Developer FyreWatch*
+*Gurik Mangat - Developer FyreWatchAi*
