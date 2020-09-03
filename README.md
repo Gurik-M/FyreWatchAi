@@ -1,5 +1,5 @@
 # FyreWatch :fire:
-### An AI Powered Wildfire Condition Detection System 
+### An Ai Powered Wildfire Condition Detection System 
 
 The purpose of this project is to build an artificially intelligent system capable of detecting wildfire conditions through a myriad of different environmental datapoints. 
 
