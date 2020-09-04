@@ -16,5 +16,7 @@ In the "Code" folder, we have included files for environmental data collection, 
 Through this project, we aim to make firefighting safer, easier, and drastically more efficient. For a more thorough and detailed analysis of our methodology and technology, please read the included research paper. All improvements are welcome, and do not hesitate to reach out for support, feedback, or collaboration opportunities!
 
 
+![FyreWatchAi Logo](https://github.com/Gurik-M/FyreWatchAi/blob/master/LICENSE/fyrewatchai_logo.jpg)
+
 
 *Gurik Mangat - Developer FyreWatchAi*
