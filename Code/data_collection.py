@@ -41,7 +41,7 @@ coordinates = [extractDigits(lst)]
 lat_url = str(lat)
 lon_url = str(lon)
 
-API_key = " dae2b752022b59ac615eecbdd4b6a7c0"
+API_key = YOUR KEY
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 Final_url = ("http://api.openweathermap.org/data/2.5/weather?appid=YOUR_API_KEY"+ "&lat=" + lat_url + "&lon=" + lon_url)
 
@@ -53,7 +53,7 @@ humidity = ("%.1f" % (weather_data['main']['humidity']))
 
 
 #soil temperature script
-owm = pyowm.OWM('dae2b752022b59ac615eecbdd4b6a7c0')
+owm = pyowm.OWM(YOUR KEY)
 mgr = owm.agro_manager()
 
 polygon_points = GeoPolygon(coordinates)
